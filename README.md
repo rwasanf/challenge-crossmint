@@ -13,7 +13,7 @@ This script automates interactions with the Crossmint API to manage celestial ob
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/rajatwasan/challenge-crossmint.git
+   git clone https://github.com/rwasanf/challenge-crossmint.git
    cd challenge-crossmint
    ```
 
